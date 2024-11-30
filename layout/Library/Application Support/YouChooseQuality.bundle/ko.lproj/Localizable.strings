@@ -1,1 +1,20 @@
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENABLED</key>
+	<string>활성화</string>
+	<key>QUALITY_FOR_SCENARIO_0</key>
+	<string>Wi-Fi 이용 시</string>
+	<key>QUALITY_FOR_SCENARIO_1</key>
+	<string>모바일 네트워크 이용 시</string>
+	<key>QUALITY_FOR_SCENARIO_2</key>
+	<string>AirPlay를 사용하여 Wi-Fi 이용 시</string>
+	<key>QUALITY_FOR_SCENARIO_3</key>
+	<string>AirPlay를 사용하여 모바일 네트워크 이용 시</string>
+	<key>QUALITY_FOR_SCENARIO_4</key>
+	<string>저전력 모드 이용 시</string>
+	<key>TWEAK_DESC</key>
+	<string>YouChooseQuality는 각 시나리오에서 선택한 화질과 동일하거나 가장 가까운 화질을 선택합니다.</string>
+</dict>
+</plist>
