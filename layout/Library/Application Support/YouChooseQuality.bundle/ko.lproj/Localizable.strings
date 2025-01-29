@@ -7,8 +7,8 @@
 "QUALITY_FOR_SCENARIO_1" = "모바일 네트워크 이용 시";
 "QUALITY_FOR_SCENARIO_1_SHORT" = "모바일 네트워크";
 "QUALITY_FOR_SCENARIO_2" = "AirPlay를 사용하여 Wi-Fi 이용 시";
-"QUALITY_FOR_SCENARIO_2_SHORT" = "AirPlay를 통한 Wi-Fi";
+"QUALITY_FOR_SCENARIO_2_SHORT" = "Wi-Fi AirPlay";
 "QUALITY_FOR_SCENARIO_3" = "AirPlay를 사용하여 모바일 네트워크 이용 시";
-"QUALITY_FOR_SCENARIO_3_SHORT" = "AirPlay를 통한 모바일 네트워크";
+"QUALITY_FOR_SCENARIO_3_SHORT" = "모바일 네트워크 AirPlay";
 "QUALITY_FOR_SCENARIO_4" = "저전력 모드 이용 시";
 "QUALITY_FOR_SCENARIO_4_SHORT" = "저전력 모드";
