@@ -1,1 +1,14 @@
+// Settings
 
+"ENABLED" = "활성화";
+"TWEAK_DESC" = "YouChooseQuality는 각 시나리오에서 선택한 화질과 동일하거나 가장 가까운 화질을 선택합니다.";
+"QUALITY_FOR_SCENARIO_0" = "Wi-Fi 이용 시";
+"QUALITY_FOR_SCENARIO_0_SHORT" = "Wi-Fi";
+"QUALITY_FOR_SCENARIO_1" = "모바일 네트워크 이용 시";
+"QUALITY_FOR_SCENARIO_1_SHORT" = "모바일 네트워크";
+"QUALITY_FOR_SCENARIO_2" = "AirPlay를 사용하여 Wi-Fi 이용 시";
+"QUALITY_FOR_SCENARIO_2_SHORT" = "AirPlay를 통한 Wi-Fi";
+"QUALITY_FOR_SCENARIO_3" = "AirPlay를 사용하여 모바일 네트워크 이용 시";
+"QUALITY_FOR_SCENARIO_3_SHORT" = "AirPlay를 통한 모바일 네트워크";
+"QUALITY_FOR_SCENARIO_4" = "저전력 모드 이용 시";
+"QUALITY_FOR_SCENARIO_4_SHORT" = "저전력 모드";
